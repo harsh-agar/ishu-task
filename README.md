@@ -104,7 +104,7 @@ python
 Always show details
 
 Copy code
-K```
+```
 import pandas as pd
 
 # Load the dataset
